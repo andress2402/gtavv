@@ -1,0 +1,64 @@
+@charset "utf-8";
+body {
+   	
+  
+}
+
+.ltr-bld{
+    font-family: Roboto;color: WHITE;
+}
+
+.bg-color {
+    background-color: #E80003;
+}
+
+.bg-img {
+    background-image: url(../../../Andres/qwe.png);
+    background-size: cover;
+}
+.bg-imgg {
+    background-image: url(../../../Andres/Me.png);
+    background-size: cover;
+}
+.colors {
+    background-color: rgba(0,0,0,0.25);
+}
+.tmm{
+    width: 200px;
+    height: auto;
+}
+
+.bg-fgr{
+	background: rgba(0,0,0,1.00);
+	border-radius: 10px
+}
+.jhan{
+	color: white;
+}.bg-jmb {
+    background-image: url(../images/20221208103357_15274.jpg);
+	background-size: cover;
+	text-align: center;
+}
+.bg-asd{
+	background:  rgba(0,0,0,0.55);
+	border-radius: 10px;
+	padding: 5px;
+}
+
+.ltr-g{
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	background: rgba(255,255,255,0.50);
+	border-radius: 10px;
+	padding: 20px;
+	
+}
+
+.img-jmb{
+	width: 300px;
+	height: auto;
+	align-content: center;
+	background: rgba(0,0,0,0.50);
+	padding: 20px;
+	border-radius: 30px;
+	box-shadow: 20 10
+}
